@@ -1,4 +1,7 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/050/449/051/original/bryan-wesley-gif-cyberpunk-city.gif?1654867381" width="800"/>
+<div align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/449/051/original/bryan-wesley-gif-cyberpunk-city.gif?1654867381" width="800"/>
+</div>
+
 
 ---
 
@@ -16,7 +19,6 @@
   <a href="https://qiskit.org/advocates/">
     <img src="https://img.shields.io/badge/Qiskit-Advocate-blueviolet" alt=""/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jvscursulim&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -85,5 +87,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://komarev.com/ghpvc/?username=jvscursulim&style=flat-square&color=blue" alt=""/>
 
 -->
