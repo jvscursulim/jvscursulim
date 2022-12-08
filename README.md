@@ -31,6 +31,7 @@ My interests are:
  - Quantum computing
  - Data Science
  - AI and Machine Learning
+ - Computer Vision
  - Blockchain
 
 <div align="center">
